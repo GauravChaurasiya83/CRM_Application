@@ -1,6 +1,6 @@
 # CRM_Application
 
-Designed and developed a robust CRM website Application that can be used for efficient employee data management. Implemented user-friendly interface, data validation, and role-based access control, enhancing organizational efficiency and streamlined employee information tracking. This web application is designed to help senior managers efficiently manage their employees. Built using the Django framework, it offers features to list employees and create detailed records for each.
+Designed and developed a robust CRM website Application that can be used for efficient employee data management. Implemented user-friendly interface, data validation, and role-based access control, enhancing organizational efficiency and streamlined employee information tracking. This web application is designed to help managers efficiently manage their employees. Built using the Django framework, it offers features to list employees and create detailed records for each.
 
 ## Features:-
 
