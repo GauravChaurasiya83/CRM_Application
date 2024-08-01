@@ -5,8 +5,8 @@ Designed and developed a robust CRM website Application that can be used for eff
 ## Features:-
 
 - **User Authentication:** Secure user registration and login using Django's built-in authentication system.
-- **Employee Management:** Senior managers can list all employees,create and edit detailed records for each employee.
-- **Data Handling:* Robust handling of employee data, ensuring data integrity and security.
+- **Employee Management:** Senior managers can list all employees, create and edit detailed records for each employee.
+- **Data Handling:** Robust handling of employee data, ensuring data integrity and security.
 
 ## Technologies Used:-
 - **Python:** Programming language used for backend development.
